@@ -41,6 +41,28 @@ The July 2026 email is the most interesting part. A 2FA code is only sent **afte
 | Verification methods | Unknown or weak recovery methods are a way back in |
 | Linked devices | Unknown devices tied to the account |
 
+### Evidence
+
+Screenshots from the review. Personal details are blurred.
+
+**Sign-in activity:** only my own two sign-ins in 30 days, both during this review.
+![Sign-in activity](images/01-sign-in-activity.jpg)
+
+**Inbox rules:** none. No hidden rule deleting or moving security emails.
+![No inbox rules](images/02-no-inbox-rules.jpg)
+
+**Forwarding off, and POP and IMAP turned off during the review.**
+![Forwarding, POP and IMAP off](images/03-forwarding-pop-imap-off.jpg)
+
+**Apps with access:** several unused for years. These keep access even after a password change.
+![Apps with access](images/04-apps-with-access.jpg)
+
+**2FA on.** The verification methods (email and phone) are blurred.
+![Two-step verification](images/05-two-step-verification.jpg)
+
+**The leaked-password checker in action.**
+![Password checker](images/06-password-checker.png)
+
 ### Findings
 
 | # | Finding | Assessment |
